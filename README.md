@@ -5,9 +5,7 @@ Overall:
 Accessibility 
 Mobile website (compatibility)
  
-Home Page:
- 
-Login Page:
+Home Page, Login Page:
 Ability to login and register
  
 Sell Page:
@@ -17,8 +15,7 @@ Message that tells the user details about the book or if the books are not requi
  
 Ability to cancel trade or save for later
 
-Overall:
-Reward system
+Overall: Reward system
  
 Sustainability (Recycling)
  
@@ -38,5 +35,5 @@ Visual aids for the quiz
  
 User has to agree to a shorthand version of agreement
  
-View the pending trade and have the ability to cancel trade 
-FAQ Page:
+View the pending trade and have the ability to cancel trade
+
