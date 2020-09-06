@@ -1,0 +1,2 @@
+# usfx.busniesswebsite
+Tofi is a free online service that reads or scans barcodes on Books, CD’s, DVD’s, and games to determine their current market value. Users input or scan their “International Standard Book Number” or their “European Article Number” into the system to get a quote on how much the company is willing to purchase the specific item for. It is a buy and sell company so the business is quite cost intensive and making profits can be challenging.
