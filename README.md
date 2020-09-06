@@ -21,11 +21,6 @@ Sustainability (Recycling)
  
 Agreement that the user is being honest (explains consequences)
  
-Home Page:
- 
-Login Page:
- 
- 
 Sell Page:
 Minimum 10 – Maximum 100 per trade
  
