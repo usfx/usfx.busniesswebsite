@@ -4,10 +4,10 @@ Tofi is a free online service that reads or scans barcodes on Books, CD’s, DVD
 Overall:
 
 Accessibility 
-Mobile website (compatibility)
+Mobile website (compatibility).
  
 Home Page, Login Page:
-Ability to login and register
+Ability to login and register.
  
 Sell Page:
 
@@ -15,7 +15,7 @@ Bar Code & ISPN input
  
 Message that tells the user details about the book or if the books are not required by the company. 
  
-Ability to cancel trade or save for later
+Ability to cancel trade or save for later.
 
 Features: 
 
