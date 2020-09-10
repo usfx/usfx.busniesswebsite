@@ -15,20 +15,20 @@ Message that tells the user details about the book or if the books are not requi
  
 Ability to cancel trade or save for later
 
-Overall: Reward system
+Features: Reward system
  
-Sustainability (Recycling)
+Sustainability (Recycling).
  
-Agreement that the user is being honest (explains consequences)
+Agreement that the user is being honest (explains consequences).
  
 Sell Page:
-Minimum 10 – Maximum 100 per trade
+Minimum 10 – Maximum 100 per trade.
  
-Quiz to determine book quality
+Quiz to determine book quality.
  
-Visual aids for the quiz
+Visual aids for the quiz.
  
-User has to agree to a shorthand version of agreement
+User has to agree to a shorthand version of agreement.
  
-View the pending trade and have the ability to cancel trade
+View the pending trade and have the ability to cancel trade.
 
