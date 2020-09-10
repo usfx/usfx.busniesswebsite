@@ -22,6 +22,7 @@ Sustainability (Recycling).
 Agreement that the user is being honest (explains consequences).
  
 Sell Page:
+
 Minimum 10 – Maximum 100 per trade.
  
 Quiz to determine book quality.
