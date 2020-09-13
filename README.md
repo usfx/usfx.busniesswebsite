@@ -21,7 +21,10 @@ Mobile website (compatibility).
 2. Home Page, Login Page:
 Ability to login and register.
  
-3. Sell Page: Bar Code & ISPN input
+3. Sell Page: Bar Code & ISPN input 
+Each page that relies on database access has been blocked behind a login wall, this means that
+the user needs to be logged in to access the page, if they aren&#39;t logged in they will be redirected
+to the login page.
  
 4. Message that tells the user details about the book or if the books are not required by the company. 
  
@@ -41,4 +44,15 @@ Minimum 10 – Maximum 100 per trade.
 10. User has to agree to a shorthand version of agreement.
  
 11. View the pending trade and have the ability to cancel trade.
+
+### Validation
+In terms of validation few different forms, the form I removes the use of special
+characters, this would eliminate the chance of SQL Injection and Cross Site Scripting. The other
+use for the validation used on the forms is to eliminate characters that would cause errors in
+later scripts (putting letters in a database when it only accepts Integers).
+
+The other form of validation sed was the user needed to have logged in to an account to
+access various pages. validated SQL queries to check if they are correct and if they
+connect to the database.
+
 
