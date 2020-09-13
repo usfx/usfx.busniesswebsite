@@ -21,28 +21,24 @@ Mobile website (compatibility).
 2. Home Page, Login Page:
 Ability to login and register.
  
-3. Sell Page:
-
-Bar Code & ISPN input
+3. Sell Page: Bar Code & ISPN input
  
 4. Message that tells the user details about the book or if the books are not required by the company. 
  
-Ability to cancel trade or save for later.
+5. Ability to cancel trade or save for later.
 
-5. For Customers
-Reward system
+6. For Customers: Reward system
  
-6. Sustainability (Recycling)
+7. Sustainability (Recycling)
+ Agreement that the user is being honest (explains consequences).
  
-Agreement that the user is being honest (explains consequences).
- 
-7. Sell Page:
+8. Sell Page:
 Minimum 10 – Maximum 100 per trade.
  
-8. Quiz to determine book quality.
+9. Quiz to determine book quality.
  Visual aids for the quiz.
  
-9. User has to agree to a shorthand version of agreement.
+10. User has to agree to a shorthand version of agreement.
  
-10. View the pending trade and have the ability to cancel trade.
+11. View the pending trade and have the ability to cancel trade.
 
