@@ -22,6 +22,7 @@ Mobile website (compatibility).
 Ability to login and register.
  
 3. Sell Page: Bar Code & ISPN input 
+
 Each page that relies on database access has been blocked behind a login wall, this means that
 the user needs to be logged in to access the page, if they aren&#39;t logged in they will be redirected
 to the login page.
@@ -51,7 +52,7 @@ characters, this would eliminate the chance of SQL Injection and Cross Site Scri
 use for the validation used on the forms is to eliminate characters that would cause errors in
 later scripts (putting letters in a database when it only accepts Integers).
 
-The other form of validation sed was the user needed to have logged in to an account to
+The other form of validation used was the user needed to have logged in to an account to
 access various pages. validated SQL queries to check if they are correct and if they
 connect to the database.
 
