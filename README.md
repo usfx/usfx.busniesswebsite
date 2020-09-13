@@ -21,6 +21,7 @@ Mobile website (compatibility).
 Ability to login and register.
  
 3. Sell Page: Bar Code & ISPN input 
+
   Each page that relies on database access has been blocked behind a login wall, this means that
   the user needs to be logged in to access the page, if they aren&#39;t logged in they will be redirected
   to the login page.
